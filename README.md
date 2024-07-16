@@ -33,5 +33,5 @@ ARPACK-NG is a fortran library for sparse eigen solvers. It has the following is
 - Mathematical references:
 	- [Lecture Notes on Solving Large Scale Eigenvalue Problems](https://people.inf.ethz.ch/arbenz/ewp/Lnotes) by Prof. Dr. Peter Arbenz from the Computer Science Department at ETH. See in particular the [latest version of the notes](https://people.inf.ethz.ch/arbenz/ewp/Lnotes/lsevp.pdf)
 	- [Templates for the Solution of Algebraic Eigenvalue Problems: a Practical Guide](https://www.netlib.org/utk/people/JackDongarra/etemplates/book.html). Overview on numerical methods for eigen values, including dense and sparse
-        - [A shifted block Lanczos algorithm for solving sparse symmetric generalized eigenproblems.](https://www.nas.nasa.gov/assets/nas/pdf/techreports/1991/rnr-91-012.pdf)
-        - [Applied Numerical Linear Algebra](http://www.stat.uchicago.edu/~lekheng/courses/302/demmel/)
+    - [A shifted block Lanczos algorithm for solving sparse symmetric generalized eigenproblems.](https://www.nas.nasa.gov/assets/nas/pdf/techreports/1991/rnr-91-012.pdf)
+    - [Applied Numerical Linear Algebra](http://www.stat.uchicago.edu/~lekheng/courses/302/demmel/)
